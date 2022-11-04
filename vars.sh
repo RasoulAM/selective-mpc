@@ -5,7 +5,7 @@ USER=ubuntu
 MP_SPDZ_PATH=$HOME/MP-SPDZ
 
 # File with IP addresses
-HOSTS_FILE=./large_HOSTS_ALL.example
+HOSTS_FILE=./HOSTS_ALL.example
 HOST_DIR=./HOSTS
 
 # Output Directories

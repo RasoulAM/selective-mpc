@@ -15,4 +15,3 @@ cd MP-SPDZ
 mkdir Player-Data
 make tldr
 make shamir
-./compile.py test1
